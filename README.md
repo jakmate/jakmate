@@ -42,7 +42,7 @@
 ### 📊 &nbsp;GitHub Stats
 
 <a href="https://github.com/jakmate" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakmate&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=jupyter%20notebook,SCSS,HTML,CSS" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakmate&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=dockerfile,cmake,shell,jupyter%20notebook,scss,html,css" alt="Top Languages" />
 </a>
 
 ---
