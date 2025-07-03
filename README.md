@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/jakmate/jakmate/main/github-header-image.png">
 
 ## Hello there! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" />
-![version :21.02.2025](https://img.shields.io/badge/version-21.02.2025-informational) &nbsp;
+![version :03.07.2025](https://img.shields.io/badge/version-03.07.2025-informational) &nbsp;
 [![GitHub jakmate](https://img.shields.io/github/followers/jakmate?label=follow&style=social)](https://github.com/jakmate)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
