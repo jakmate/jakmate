@@ -43,7 +43,7 @@
 
 ### 📊 &nbsp;Languages
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakmate&show_icons=true&langs_count=10&hide_border=true&layout=compact&hide=dockerfile,jupyter%20notebook,html,css,Makefile,shell&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c106a"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakmate&show_icons=true&langs_count=10&hide_border=true&layout=compact&hide=dockerfile,jupyter%20notebook,html,css,Makefile&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c106a"
     width="50%"
 />
 
