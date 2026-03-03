@@ -4,11 +4,6 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I'm a **BSc Computer Science graduate** from **University of Leeds**.\
-🌱 &nbsp;Currenlty learning C# and C++.\
-🏋 &nbsp;Outside coding, I enjoy playing instruments, reading, and staying active.\
 ✉️ &nbsp;**Email**: jakub.orzolek04@gmail.com\
 📄 &nbsp;Connect on [LinkedIn](https://www.linkedin.com/in/jakub-orzolek).
 
